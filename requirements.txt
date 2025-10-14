@@ -1,1 +1,5 @@
-pip install streamlit langchain langchain-community langchain-ollama chromadb pypdf
+streamlit
+PyPDF2
+langchain
+langchain-community
+numpy
